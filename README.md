@@ -1,1 +1,1 @@
-# EDA_titanic_data
+# EDA and Survival Prediction model
